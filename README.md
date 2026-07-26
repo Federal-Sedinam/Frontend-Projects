@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Federal-Sedinam/QR-Code-Component)
+- Live Site URL: [Vercel URL](https://qr-code-component-kohl-psi.vercel.app)
 
 ## My process
 
@@ -29,5 +29,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Federal-Sedinam)
-- Twitter - [@yourusername](https://www.x.com/Federal_Sedinam)
+- Frontend Mentor - [@Federal-Sedinam](https://www.frontendmentor.io/profile/Federal-Sedinam)
+- Twitter - [@Federal_Sedinam](https://www.x.com/Federal_Sedinam)
