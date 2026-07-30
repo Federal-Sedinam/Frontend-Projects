@@ -1,4 +1,4 @@
-# Frontend Mentor Learning Journey
+# Frontend Learning Journey
 
 This repository contains the frontend development projects I am building and will continue to build as I learn and improve my skills.
 
