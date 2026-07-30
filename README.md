@@ -1,33 +1,36 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor Learning Journey
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This repository contains the frontend development projects I am building and will continue to build as I learn and improve my skills.
 
-## Table of contents
+The goal of this folder is to document my progress in HTML, CSS, and responsive web design through practical projects.
 
-- [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## What This Repository Includes
 
+- Practice projects from Frontend Mentor challenges
+- Small UI builds focused on layout, styling, and structure
+- A growing portfolio of work as I continue learning
 
-## Overview
+## Current Projects
 
-### Links
+- QR Code Component
+- Blog Preview Card
 
-- Solution URL: [Github](https://github.com/Federal-Sedinam/QR-Code-Component)
-- Live Site URL: [Vercel URL](https://qr-code-component-kohl-psi.vercel.app)
+## What I Am Learning
 
-## My process
+- Semantic HTML
+- CSS layout techniques such as Flexbox and Grid
+- Responsive design
+- Accessibility basics
+- Clean and modern UI design
 
-### Built with
+## Goals
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- Build simple but polished web pages
+- Improve my frontend development skills step by step
+- Keep a record of my progress over time
 
-## Author
+## How to Explore
 
-- Frontend Mentor - [@Federal-Sedinam](https://www.frontendmentor.io/profile/Federal-Sedinam)
-- Twitter - [@Federal_Sedinam](https://www.x.com/Federal_Sedinam)
+Open any project folder in this repository to view the HTML and CSS files and see the work in progress.
+
+This is a personal learning space, and I will keep updating it as I grow as a frontend developer.
